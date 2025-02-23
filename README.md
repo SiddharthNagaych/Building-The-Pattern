@@ -90,6 +90,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
@@ -144,6 +146,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
