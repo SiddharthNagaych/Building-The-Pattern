@@ -105,6 +105,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +137,5 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 <!---LeetCode Topics End-->
