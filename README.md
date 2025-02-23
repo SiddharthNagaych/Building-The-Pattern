@@ -89,13 +89,31 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Array
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
