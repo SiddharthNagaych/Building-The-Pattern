@@ -83,3 +83,19 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 - **Twitter:** [@SiddharthNagaych](https://twitter.com/SiddharthNagaych)
 
 🚀 Let's build patterns together and crack coding interviews efficiently!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+## Two Pointers
+|  |
+| ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+## String
+|  |
+| ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+<!---LeetCode Topics End-->
