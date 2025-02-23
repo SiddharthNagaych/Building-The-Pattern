@@ -89,6 +89,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
@@ -140,6 +142,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Math
