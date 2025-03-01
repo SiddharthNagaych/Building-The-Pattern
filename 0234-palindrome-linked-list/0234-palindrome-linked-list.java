@@ -10,12 +10,12 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        // Edge case: empty list or single node
+     
         if (head == null || head.next == null) {
             return true;
         }
 
-        // Step 1: Find the middle of the list
+     
         ListNode slow = head;
         ListNode fast = head;
         while (fast != null && fast.next != null) {
@@ -23,7 +23,7 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Step 2: Reverse the second half of the list
+      
         ListNode prev = null;
         ListNode curr = slow;
         while (curr != null) {
@@ -33,14 +33,14 @@ class Solution {
             curr = nextNode;
         }
 
-        // Step 3: Compare the first half with the reversed second half
-        ListNode left = head;
-        // `prev` is the head of the reversed second half
+        
+       
+       
         while (prev != null) {
-            if (left.val != prev.val) {
+            if (head.val != prev.val) {
                 return false;
             }
-            left = left.next;
+            head = head.next;
             prev = prev.next;
         }
 
