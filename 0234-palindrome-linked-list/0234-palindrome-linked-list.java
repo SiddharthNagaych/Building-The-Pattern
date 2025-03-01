@@ -44,17 +44,7 @@ class Solution {
             right = right.next;
         }
 
-        // Step 4: (Optional) Restore the original list by reversing the second half again
-        // This step is not necessary for the palindrome check but is good practice
-        curr = prev;
-        prev = null;
-        while (curr != null) {
-            ListNode nextNode = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextNode;
-        }
-        slow.next = prev; // Reattach the reversed second half
+       
 
         return true;
     }
