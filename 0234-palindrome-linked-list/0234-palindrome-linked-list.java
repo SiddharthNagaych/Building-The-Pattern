@@ -35,13 +35,13 @@ class Solution {
 
         // Step 3: Compare the first half with the reversed second half
         ListNode left = head;
-        ListNode right = prev; // `prev` is the head of the reversed second half
-        while (right != null) {
-            if (left.val != right.val) {
+        // `prev` is the head of the reversed second half
+        while (prev != null) {
+            if (left.val != prev.val) {
                 return false;
             }
             left = left.next;
-            right = right.next;
+            prev = prev.next;
         }
 
        
