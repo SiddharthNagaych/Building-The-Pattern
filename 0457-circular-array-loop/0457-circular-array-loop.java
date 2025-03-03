@@ -4,53 +4,47 @@ public class Solution {
         
         for (int i = 0; i < n; i++) {
             if (nums[i] == 0) {
-                continue; // Skip already visited indices
+                continue; 
             }
             
             int slow = i, fast = i;
-            boolean direction = nums[i] > 0; // true for positive, false for negative
+            boolean direction = nums[i] > 0; 
             
             while (true) {
                 slow = getNextIndex(nums, slow, n);
                 if (nums[slow] == 0 || (nums[slow] > 0) != direction) {
-                    break; // Invalid cycle (direction mismatch or visited)
+                    break; 
                 }
                 
                 fast = getNextIndex(nums, fast, n);
                 if (nums[fast] == 0 || (nums[fast] > 0) != direction) {
-                    break; // Invalid cycle (direction mismatch or visited)
+                    break;
                 }
                 fast = getNextIndex(nums, fast, n);
                 if (nums[fast] == 0 || (nums[fast] > 0) != direction) {
-                    break; // Invalid cycle (direction mismatch or visited)
+                    break; 
                 }
                 
                 if (slow == fast) {
-                    // Check if the cycle length is at least 2
+                  
                     int nextSlow = getNextIndex(nums, slow, n);
                     if (nextSlow == slow) {
-                        break; // Cycle length is 1 (invalid)
+                        break; 
                     }
-                    return true; // Valid cycle found
+                    return true; 
                 }
             }
             
-            // Mark all visited indices in the current path as 0 to avoid reprocessing
-            slow = i;
-            while (nums[slow] != 0 && (nums[slow] > 0) == direction) {
-                int nextSlow = getNextIndex(nums, slow, n);
-                nums[slow] = 0; // Mark as visited
-                slow = nextSlow;
-            }
+         
         }
         
-        return false; // No valid cycle found
+        return false; 
     }
     
     private int getNextIndex(int[] nums, int current, int n) {
         int next = (current + nums[current]) % n;
         if (next < 0) {
-            next += n; // Handle negative indices
+            next += n;
         }
         return next;
     }
