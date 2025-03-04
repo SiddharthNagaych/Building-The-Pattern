@@ -1,18 +1,17 @@
 class Solution {
     
-    public int countMaxSubArray(int[] nums, int bound ){
-        int count =0;
-        int currentCount=0;
+    public int countMaxSubArray(int[] nums, int bound){
+        int globalcount=0;
+        int currentcount=0;
         for(int i:nums){
             if(i<=bound){
-                currentCount++;
-                count +=currentCount;
+              currentcount++;
+              globalcount +=currentcount;
             }else{
-                currentCount=0;
+                currentcount=0;
             }
         }
-
-        return count;
+        return globalcount;
     }
     public int numSubarrayBoundedMax(int[] nums, int left, int right) {
        return countMaxSubArray(nums,right)-countMaxSubArray(nums,left-1);
