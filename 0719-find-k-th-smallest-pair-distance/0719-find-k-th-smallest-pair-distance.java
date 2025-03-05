@@ -9,7 +9,7 @@ public class Solution {
             int mid = low + (high - low) / 2;
             int count = 0, left = 0;
             
-            // Sliding window to count pairs with distance <= mid
+           
             for (int right = 0; right < n; right++) {
                 while (nums[right] - nums[left] > mid) {
                     left++;
@@ -24,6 +24,6 @@ public class Solution {
             }
         }
         
-        return low;
+        return high;
     }
 }
