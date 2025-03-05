@@ -100,6 +100,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
@@ -133,6 +134,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
@@ -157,6 +159,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +171,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
