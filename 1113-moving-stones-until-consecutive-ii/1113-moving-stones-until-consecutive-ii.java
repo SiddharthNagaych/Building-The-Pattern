@@ -1,37 +1,37 @@
-import java.util.Arrays;
-
 class Solution {
     public int[] numMovesStonesII(int[] stones) {
-        Arrays.sort(stones); // Sort the stones array
-        int n = stones.length;
-        int[] res = new int[2]; // Result array: [min_moves, max_moves]
+        Arrays.sort(stones);
+        int n= stones.length;
+        int [] res=new int[2];
 
-        // Calculate maximum moves
-        int maxMoves = Math.max(
-            stones[n - 1] - stones[1] - (n - 2), // Move stones from the right end
-            stones[n - 2] - stones[0] - (n - 2)  // Move stones from the left end
-        );
-        res[1] = maxMoves;
+        int max_value=Math.max(stones[n-1]-stones[1]-(n-2),stones[n-2]-stones[0]-(n-2));
 
-        // Calculate minimum moves
-        int minMoves = Integer.MAX_VALUE;
-        int left = 0;
+        res[1]=max_value;
 
-        // Use a sliding window to find the largest window of consecutive stones
-        for (int right = 0; right < n; right++) {
-            while (stones[right] - stones[left] + 1 > n) {
-                left++; // Shrink the window from the left
+        int min_value=Integer.MAX_VALUE;
+
+        int left=0;
+        for(int right=0;right<n;right++){
+            while(stones[right]-stones[left]+1>n){
+                left++;
             }
-            int windowSize = right - left + 1; // Size of the current window
-            if (windowSize == n - 1 && stones[right] - stones[left] + 1 == n - 1) {
-                // Special case: only one gap of size 2
-                minMoves = Math.min(minMoves, 2);
-            } else {
-                minMoves = Math.min(minMoves, n - windowSize);
+            int longestSubWindow=right-left+1;
+
+            if(longestSubWindow==n-1 && stones[right]-stones[left]+1==n-1){
+                 min_value=Math.min(min_value,2);
+            }else{
+               min_value=Math.min(min_value,(n-longestSubWindow));
             }
+
+            
         }
-        res[0] = minMoves;
+
+        res[0]=min_value;
 
         return res;
+
+
+
+
     }
 }
