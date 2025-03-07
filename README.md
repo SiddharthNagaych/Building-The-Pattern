@@ -106,6 +106,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
@@ -162,6 +164,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +180,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
@@ -260,4 +264,8 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
+## Graph
+|  |
+| ------- |
+| [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 <!---LeetCode Topics End-->
