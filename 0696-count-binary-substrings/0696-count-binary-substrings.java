@@ -1,25 +1,22 @@
 class Solution {
-   public int countBinarySubstrings(String s) {
-    int[] groups = new int[s.length()]; // To store counts of consecutive 0s and 1s
-    int groupIndex = 0; // Index for the groups array
-    groups[groupIndex] = 1; // Initialize the first group
-
-    // Step 1: Group the string into consecutive counts of 0s and 1s
+  public int countBinarySubstrings(String s) {
+    int result = 0;
+    int prevCount = 0;
+    int currCount = 1;
+    
     for (int i = 1; i < s.length(); i++) {
         if (s.charAt(i) == s.charAt(i - 1)) {
-            groups[groupIndex]++; // Increment the current group count
+            currCount++;
         } else {
-            groupIndex++; // Move to the next group
-            groups[groupIndex] = 1; // Initialize the new group
+            result += Math.min(prevCount, currCount);
+            prevCount = currCount;
+            currCount = 1;
         }
     }
-
-    // Step 2: Use a sliding window of size 2 to count valid substrings
-    int result = 0;
-    for (int i = 1; i <= groupIndex; i++) {
-        result += Math.min(groups[i - 1], groups[i]); // Add the minimum of the two adjacent groups
-    }
-
+    
+    // Add the last group
+    result += Math.min(prevCount, currCount);
+    
     return result;
 }
 }
