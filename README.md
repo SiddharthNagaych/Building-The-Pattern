@@ -136,6 +136,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
@@ -154,6 +155,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Binary Search
