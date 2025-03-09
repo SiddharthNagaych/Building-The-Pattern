@@ -99,6 +99,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -131,6 +132,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0344-reverse-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -163,6 +165,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -177,6 +180,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0015-3sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
@@ -222,6 +226,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0141-linked-list-cycle](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 ## Counting
