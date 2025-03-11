@@ -97,6 +97,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -128,6 +129,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0143-reorder-list](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0344-reverse-string) |
@@ -205,6 +207,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
