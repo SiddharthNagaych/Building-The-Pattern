@@ -1,29 +1,26 @@
 class Solution {
     public int compress(char[] chars) {
-        int index = 0; // Position to insert compressed characters
-        int i = 0;
+        int n = chars.length;
+        int left = 0, right = 1; // Start with right = 1
+        int write = 0; // Pointer to write compressed data
 
-        while (i < chars.length) {
-            char currentChar = chars[i];
-            int count = 0;
+        while (right <= n) { // <= n to handle last character properly
+            // If end of array is reached OR next character is different
+            if (right == n || chars[right] != chars[left]) {
+                chars[write++] = chars[left]; // Write the character
 
-            // Count occurrences of the current character
-            while (i < chars.length && chars[i] == currentChar) {
-                count++;
-                i++;
-            }
-
-            // Store the character
-            chars[index++] = currentChar;
-
-            // Store count as individual characters if greater than 1
-            if (count > 1) {
-                for (char c : String.valueOf(count).toCharArray()) {
-                    chars[index++] = c;
+                if (right - left > 1) { // If count > 1, write count
+                    for (char c : String.valueOf(right - left).toCharArray()) {
+                        chars[write++] = c;
+                    }
                 }
+
+                left = right; // Move left to start of next group
             }
+            
+            right++; // Move right pointer
         }
 
-        return index; // New compressed length
+        return write; // Return new compressed length
     }
 }
