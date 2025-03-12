@@ -15,10 +15,12 @@ class Solution {
                     }
                 }
 
-                left = right; // Move left to start of next group
+                left = right;
+               // Move right pointer // Move left to start of next group
             }
+              right++; 
             
-            right++; // Move right pointer
+           
         }
 
         return write; // Return new compressed length
