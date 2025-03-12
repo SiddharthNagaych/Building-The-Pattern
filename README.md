@@ -134,6 +134,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
@@ -159,6 +160,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0151-reverse-words-in-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0696-count-binary-substrings) |
