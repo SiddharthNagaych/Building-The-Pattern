@@ -1,28 +1,29 @@
 class Solution {
     public int compress(char[] chars) {
-        int n = chars.length;
-        int left = 0, right = 1; // Start with right = 1
-        int write = 0; // Pointer to write compressed data
+       int left=0;
+       int right=1;
+       int ind=0;
+       int n=chars.length;
 
-        while (right <= n) { // <= n to handle last character properly
-            // If end of array is reached OR next character is different
-            if (right == n || chars[right] != chars[left]) {
-                chars[write++] = chars[left]; // Write the character
+       while(right<=n){
+        if(right==n||chars[left]!=chars[right]){
+            chars[ind++]=chars[left];
 
-                if (right - left > 1) { // If count > 1, write count
-                    for (char c : String.valueOf(right - left).toCharArray()) {
-                        chars[write++] = c;
-                    }
-                }
+            if(right-left>1){
+               for(char c:String.valueOf(right-left).toCharArray() ){
+                chars[ind++]=c;
+               }
 
-                left = right;
-               // Move right pointer // Move left to start of next group
             }
-              right++; 
-            
-           
+            left=right;
         }
 
-        return write; // Return new compressed length
+        
+        
+        
+        
+        right++;
+       } 
+       return  ind;
     }
 }
