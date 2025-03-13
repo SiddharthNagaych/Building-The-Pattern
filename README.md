@@ -149,6 +149,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1133-last-substring-in-lexicographical-order](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -165,6 +166,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0680-valid-palindrome-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
+| [1133-last-substring-in-lexicographical-order](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Binary Search
 |  |
