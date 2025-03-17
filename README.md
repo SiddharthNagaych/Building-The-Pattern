@@ -110,6 +110,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -155,6 +156,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
