@@ -1,49 +1,53 @@
 class Solution {
     public double[] sampleStats(int[] count) {
-        int minimum = Integer.MAX_VALUE;
-        int maximum = Integer.MIN_VALUE;
-        long sum = 0;
-        int totalCount = 0;
-        int mode = 0;
-        int maxFrequency = 0;
+        int max=Integer.MIN_VALUE;
+        int min=Integer.MAX_VALUE;
+        long sum =0;
+        int totalCount=0;
+        int maxFreq=0;
+        int mode=0;
 
-        // Calculate minimum, maximum, sum, totalCount, and mode
-        for (int i = 0; i < count.length; i++) {
-            if (count[i] > 0) {
-                if (i < minimum) {
-                    minimum = i;
+        for(int i=0;i<count.length;i++){
+            if(count[i]>0){
+                if(i>max){
+                    max=i;
                 }
-                if (i > maximum) {
-                    maximum = i;
+                if(i<min){
+                    min=i;
                 }
-                sum += (long) i * count[i];
+                sum += (long)i*count[i];
                 totalCount += count[i];
-                if (count[i] > maxFrequency) {
-                    maxFrequency = count[i];
-                    mode = i;
+                if(maxFreq<count[i]){
+                    maxFreq=count[i];
+                    mode=i;
+
                 }
+
+
             }
         }
 
-        double mean = (double) sum / totalCount;
+        double mean =(double)sum/totalCount;
 
-        // Calculate median
-        double median = 0;
-        int medianPos = (totalCount + 1) / 2;
-        int currentCount = 0;
-        boolean isEven = totalCount % 2 == 0;
+        // lets Start calculateing medina as well 
 
-        for (int i = 0; i < count.length; i++) {
-            if (count[i] > 0) {
+
+        double median=0;
+
+        int currentCount=0;
+        int medianPos=(totalCount+1)/2;
+        boolean isEven=totalCount%2==0;
+
+        for(int i=0;i<count.length;i++){
+            if(count[i]>0){
                 currentCount += count[i];
-                if (currentCount >= medianPos) {
-                    if (!isEven || currentCount > medianPos) {
-                        median = i;
-                    } else {
-                        // If even, find the next non-zero count to calculate the average
-                        for (int j = i + 1; j < count.length; j++) {
-                            if (count[j] > 0) {
-                                median = (i + j) / 2.0;
+                if(currentCount>=medianPos){
+                    if(!isEven || currentCount>medianPos){
+                        median =i;
+                    }else{
+                        for(int j=i+1;j<count.length;j++){
+                            if(count[j]>0){
+                                median =(i+j)/2.0;
                                 break;
                             }
                         }
@@ -53,6 +57,9 @@ class Solution {
             }
         }
 
-        return new double[]{minimum, maximum, mean, median, mode};
+        return new double[]{min,max,mean,median,mode};
+
+
+
     }
 }
