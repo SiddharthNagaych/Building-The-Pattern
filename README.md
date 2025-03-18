@@ -111,6 +111,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
+| [1183-statistics-from-a-large-sample](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1183-statistics-from-a-large-sample) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -222,6 +223,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1183-statistics-from-a-large-sample](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1183-statistics-from-a-large-sample) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,4 +298,8 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1183-statistics-from-a-large-sample](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1183-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
