@@ -1,13 +1,14 @@
 class Solution {
     public double[] sampleStats(int[] count) {
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
+        int max =Integer.MIN_VALUE;
+        int min =Integer.MAX_VALUE;
         int totalCount=0;
-        int maxFreq=0;
         long sum =0;
+        int maxFreq=0;
         int mode=0;
+        int n=count.length;
 
-        for(int i=0;i<count.length;i++){
+        for(int i=0;i<n;i++){
             if(count[i]>0){
                 if(i>max){
                     max=i;
@@ -19,46 +20,43 @@ class Solution {
                 sum += (long)count[i]*i;
                 totalCount += count[i];
 
-                if(maxFreq<count[i]){
+                if(count[i]>maxFreq){
                     maxFreq=count[i];
                     mode=i;
                 }
-
-
             }
         }
-        double mean=(double)sum/totalCount;
 
-        // lets calculate the median as well
+        double mean =(double)sum / totalCount;
 
+        // lets caculate the median as well
+
+        double median=0;
         int currentCount=0;
         int medianPos=(totalCount+1)/2;
         boolean isEven=totalCount%2==0;
-        double median=0;
 
-        
-
-
-        for(int i=0;i<count.length;i++){
+        for(int i =0;i<n;i++){
             if(count[i]>0){
-                currentCount +=count[i];
-
-                if(currentCount>=medianPos){
-                    if(!isEven||currentCount>medianPos){
-                        median=i;
-                    }else{
-                        for(int j=i+1;j<count.length;j++){
-                            if(count[j]>0){
-                                median =(i+j)/2.0;
-                                break;
-                            }
+             currentCount +=count[i];
+             if(currentCount>=medianPos){
+                if(!isEven || currentCount>medianPos){
+                    median=i;
+                }else{
+                    for(int j=i+1;j<n;j++){
+                        if(count[j]>0){
+                            median =(i+j)/2.0;
+                            break;
                         }
                     }
-                    break;
                 }
-
+                break;
+             }
             }
         }
+
         return new double[]{min,max,mean,median,mode};
+
+
     }
 }
