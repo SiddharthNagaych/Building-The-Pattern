@@ -1,26 +1,24 @@
 class Solution {
     public int magicalString(int n) {
-              if (n == 0) return 0;
-        if (n <= 3) return 1;
+        if(n==0) return 0;
+        if(n<=3) return 1;
+        int [] arr=new int[n+1];
+        arr[0]=1;
+        arr[1]=2;
+        arr[2]=2;
 
-        // Initialize the magical string with the first three characters
-        int[] s = new int[n + 1];
-        s[0] = 1;
-        s[1] = 2;
-        s[2] = 2;
+        int countOnes=1;
+        int readPointer=2;
+        int writePointer=3;
 
-        int readPointer = 2; // Pointer to read the next group size
-        int writePointer = 3; // Pointer to write the next group
-        int countOnes = 1; // Count of '1's, starting with the first character
+        while(writePointer<n){
+            int nextGrpSize=arr[readPointer];
+            int nextChar=arr[writePointer-1]==1?2:1;
 
-        while (writePointer < n) {
-            int nextGroupSize = s[readPointer];
-            int nextChar = s[writePointer - 1] == 1 ? 2 : 1; // Alternate between 1 and 2
-
-            for (int i = 0; i < nextGroupSize; i++) {
-                if (writePointer < n) {
-                    s[writePointer] = nextChar;
-                    if (nextChar == 1) {
+            for(int i=0;i<nextGrpSize;i++){
+                if(writePointer<n){
+                    arr[writePointer]=nextChar;
+                    if(nextChar==1){
                         countOnes++;
                     }
                     writePointer++;
@@ -28,6 +26,7 @@ class Solution {
             }
             readPointer++;
         }
+
 
         return countOnes;
 
