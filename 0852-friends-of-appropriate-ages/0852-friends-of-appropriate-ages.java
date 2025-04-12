@@ -13,9 +13,9 @@ class Solution {
             int left = findFirstGreater(ages, lower);
             int right = findLastLessOrEqual(ages, upper);
             if (left > right) continue;
-            res += right - left + 1; // +1 to include the person at 'left'
+            res += right - left + 1; 
             if (left <= i && i <= right) {
-                res--; // subtract 1 to exclude themselves
+                res--; 
             }
         }
         return res;
