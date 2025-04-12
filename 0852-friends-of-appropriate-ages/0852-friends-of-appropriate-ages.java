@@ -1,51 +1,13 @@
-import java.util.Arrays;
-
 class Solution {
     public int numFriendRequests(int[] ages) {
         Arrays.sort(ages);
-        int res = 0;
-        int n = ages.length;
-        for (int i = 0; i < n; i++) {
-            int age = ages[i];
-            if (age < 15) continue;
-            double lower = 0.5 * age + 7;
-            int upper = age;
-            int left = findFirstGreater(ages, lower);
-            int right = findLastLessOrEqual(ages, upper);
-            if (left > right) continue;
-            res += right - left + 1; 
-            if (left <= i && i <= right) {
-                res--; 
-            }
+        int left = 0, i = 0, result = 0, prev = 0;
+        for(i = 1; i < ages.length; i++) {
+            while(left < i && ages[left] <= 0.5*ages[i]+7) left++;
+            while(prev < i && ages[i] != ages[prev]) prev++;
+            if(ages[i] == ages[prev] && ages[i] > 0.5*ages[i]+7) result+=i-prev;
+            result+=i-left;
         }
-        return res;
-    }
-
-    private int findFirstGreater(int[] ages, double target) {
-        int low = 0, high = ages.length;
-        while (low < high) {
-            int mid = (low + high) / 2;
-            if (ages[mid] > target) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
-        }
-        return low;
-    }
-
-    private int findLastLessOrEqual(int[] ages, int target) {
-        int low = 0, high = ages.length - 1;
-        int res = -1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (ages[mid] <= target) {
-                res = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-        return res;
+        return result;
     }
 }
