@@ -108,6 +108,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0852-friends-of-appropriate-ages) |
+| [0875-longest-mountain-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
@@ -157,6 +158,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0852-friends-of-appropriate-ages) |
+| [0875-longest-mountain-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
@@ -237,6 +239,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
+| [0875-longest-mountain-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0875-longest-mountain-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -312,4 +315,8 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [1183-statistics-from-a-large-sample](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1183-statistics-from-a-large-sample) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
