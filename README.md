@@ -114,6 +114,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
 | [1183-statistics-from-a-large-sample](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1183-statistics-from-a-large-sample) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -164,6 +165,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -194,6 +196,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-friends-of-appropriate-ages](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0852-friends-of-appropriate-ages) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 ## Sliding Window
 |  |
@@ -246,10 +249,12 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0234-palindrome-linked-list) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
 | ------- |
