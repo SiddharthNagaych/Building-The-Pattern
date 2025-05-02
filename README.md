@@ -103,6 +103,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -148,6 +149,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0345-reverse-vowels-of-a-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
@@ -193,6 +195,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
+| [0475-heaters](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
@@ -211,6 +214,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0088-merge-sorted-array) |
+| [0475-heaters](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
