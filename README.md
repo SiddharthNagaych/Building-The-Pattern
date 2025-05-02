@@ -98,6 +98,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
@@ -133,6 +134,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0142-linked-list-cycle-ii) |
@@ -208,6 +210,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0015-3sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
