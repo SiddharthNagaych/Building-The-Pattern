@@ -89,6 +89,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0018-4sum) |
@@ -265,6 +266,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
