@@ -117,6 +117,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
 | [1183-statistics-from-a-large-sample](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1183-statistics-from-a-large-sample) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
@@ -170,6 +171,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1168-duplicate-zeros](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1168-duplicate-zeros) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1972-rotating-the-box](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1972-rotating-the-box) |
@@ -202,6 +204,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-friends-of-appropriate-ages](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0852-friends-of-appropriate-ages) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 ## Sliding Window
@@ -223,6 +226,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0917-boats-to-save-people](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1891-count-pairs-of-nodes](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1891-count-pairs-of-nodes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
