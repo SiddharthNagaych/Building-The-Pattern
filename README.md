@@ -106,6 +106,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -278,6 +279,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0142-linked-list-cycle-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0959-3sum-with-multiplicity) |
@@ -340,4 +342,8 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0875-longest-mountain-in-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
