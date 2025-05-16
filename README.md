@@ -105,6 +105,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0475-heaters) |
+| [0523-continuous-subarray-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0658-find-k-closest-elements) |
@@ -249,6 +250,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0633-sum-of-square-numbers) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1113-moving-stones-until-consecutive-ii) |
@@ -278,6 +280,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0141-linked-list-cycle](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0457-circular-array-loop) |
+| [0523-continuous-subarray-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -345,5 +348,6 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
