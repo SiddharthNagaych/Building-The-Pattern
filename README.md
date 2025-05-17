@@ -264,6 +264,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0234-palindrome-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -293,10 +294,12 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -309,6 +312,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
