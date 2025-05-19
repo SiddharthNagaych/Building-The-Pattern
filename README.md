@@ -299,6 +299,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -306,6 +307,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -321,6 +323,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
