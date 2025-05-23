@@ -260,6 +260,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
 | [0875-longest-mountain-in-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0875-longest-mountain-in-array) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +304,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -331,6 +334,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
