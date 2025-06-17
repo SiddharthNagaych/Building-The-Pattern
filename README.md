@@ -98,6 +98,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0031-next-permutation](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -357,6 +358,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
 ## Graph
 |  |
@@ -379,4 +381,8 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
