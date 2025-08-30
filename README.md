@@ -299,6 +299,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
@@ -313,6 +314,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
@@ -326,6 +328,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -338,6 +341,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
