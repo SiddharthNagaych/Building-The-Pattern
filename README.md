@@ -310,6 +310,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0783-search-in-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -343,6 +344,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +360,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0783-search-in-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
