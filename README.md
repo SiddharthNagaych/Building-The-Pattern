@@ -306,6 +306,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0450-delete-node-in-a-bst) |
@@ -326,6 +327,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0543-diameter-of-binary-tree) |
@@ -345,6 +347,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0783-search-in-a-binary-search-tree) |
@@ -360,6 +363,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0450-delete-node-in-a-bst) |
