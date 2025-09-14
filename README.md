@@ -101,6 +101,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | [0078-subsets](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0287-find-the-duplicate-number) |
@@ -300,6 +301,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0112-path-sum) |
@@ -349,6 +351,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0450-delete-node-in-a-bst) |
@@ -360,6 +363,7 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0112-path-sum) |
@@ -422,4 +426,8 @@ If you find this useful, **give it a star ⭐** and feel free to contribute by i
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SiddharthNagaych/Building-The-Pattern/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
